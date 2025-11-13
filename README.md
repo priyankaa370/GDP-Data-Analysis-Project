@@ -42,7 +42,11 @@ The project demonstrates Power Query data cleaning, data transformation, and com
 ### 2. GDP Comparison Chart
 <img width="731" height="442" alt="image" src="https://github.com/user-attachments/assets/5e299b3b-737e-4592-81c7-29b222cbeef5" />
 
-### 3. Derived Columns Table
+### 3. Share of Global GDP
+<img width="736" height="445" alt="image" src="https://github.com/user-attachments/assets/873b283c-ee74-4ded-9e55-2ca388c8e448" />
+
+
+### 4. Derived Columns Table
 | Country | IMF_GDP | WorldBank_GDP | UN_GDP | GDP_Diff_IMF_WB | GDP_PercentDiff_IMF_WB | Average_GDP |
 | ------- | ------- | ------------- | ------ | --------------- | ---------------------- | ----------- |
 | USA     | $30,615,743.00 | $29,184,890.00  | $27,720,700.00  | 1430853          | 5%                    | $29,173,777.67    |
